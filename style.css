@@ -1,0 +1,189 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background: hsl(210, 46%, 95%);
+}
+    .container{
+        width: 1200px;
+        margin: 100px auto;
+        
+    }
+    h1,h2,p,span{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+    }
+
+    .container .card1{
+        background: hsl(263, 55%, 52%);
+        width: 500px;
+        padding: 30px;
+        border-radius: 8px;
+        float: left;
+        position: absolute;
+        
+        
+    }
+    .perfil{
+        border: 3px solid;
+        width: 30px;
+        border-radius: 50%;
+        float: left;     
+    }
+    .container .card1 .perfil{
+        border-color: #A374E2;
+        
+    }
+    
+
+     h1{
+        color: #fff;
+        font-size: 13px;
+    }
+
+    .card1 h2{
+        color: #A374E2;
+        font-size: 13px;
+        margin-top: -10px;
+    }
+     .subtitulo{
+        margin-top: -5px;
+        margin-left: 50px ;
+        
+    }
+    .card1 span{
+        color: #B785F9;
+        font-size: 13px;
+    }
+
+    p{
+        color: #fff;
+        font-size: 18px;
+    }
+    .card1 .quote p{
+        
+        margin-top: -100px;
+        position: relative;
+        
+    }
+ .card1 .quote img{
+        position: relative;
+        top:-78px;
+        left: 340px;
+ }
+ /*Card 2*/
+ .container .card2 .perfil{
+    border-color: #99A4B8;
+    
+}
+
+ .card2{
+     background: hsl(217, 19%, 35%);
+     padding: 30px;
+     border-radius: 8px;
+     width: 200px;
+     margin-left: 590px;
+ }
+ .card2 h2{
+    color: #99A4B8;
+    font-size: 13px;
+    margin-top: -10px;
+}
+.card2 span{
+    color: #99A4B8;
+    font-size: 13px;
+}
+/*Card3*/
+.card3{
+    
+    background: #fff;
+     padding: 30px 30px 50px 30px;
+     border-radius: 8px;
+     width: 200px;
+     margin-top: 20px;
+     box-shadow: 5px 10px 20px rgb(190, 190, 190);
+     float: left;
+}
+.container .card3 .perfil{
+    border-color: #fff;
+    
+}
+.card3 h1{
+    color: hsl(217, 19%, 35%);
+}
+.card3 h2{
+    color: hsl(0, 0%, 81%);
+    font-size: 13px;
+    margin-top: -10px;
+}
+.card3 p{
+    
+    color:hsl(217, 19%, 35%) ;
+}
+.card3 span{
+    margin-top: 20px;
+    color: #99A4B8;
+    font-size: 13px;
+}
+/*Card4*/
+
+.card4{
+    background: hsl(219, 29%, 14%);
+        width: 500px;
+        padding: 30px;
+        border-radius: 8px;
+        margin-top: 20px;
+        margin-left: 30px;
+        float: left;
+       
+}
+
+.card4 .perfil{
+    border-color: hsl(263, 55%, 52%);
+}
+.card4 h2{
+ color: #99A4B8;
+ font-size: 13px;
+ margin-top: -10px;
+}
+.card4 span{
+    color: #99A4B8;
+    font-size: 13px;
+}
+/*Card5*/
+
+.card5{
+    background:#fff ;
+    box-shadow: 5px 10px 20px rgb(190, 190, 190);
+    width: 200px;
+    margin-left: 880px;
+    margin-top: -295px;
+    height: 530px;
+    border-radius: 8px;
+    padding: 30px;
+}
+.card5 .perfil{
+    margin-top: -260px;
+}
+.card5 h1{
+    color: hsl(217, 19%, 35%);
+}
+.card5 h2{
+    color: hsl(0, 0%, 81%);
+    font-size: 13px;
+    margin-top: -10px;
+}
+.card5 p{
+    
+    color:hsl(217, 19%, 35%) ;
+}
+.card5 span{
+    margin-top: 20px;
+    color: #99A4B8;
+    font-size: 13px;
+}
+.container .card5 .perfil{
+    border-color: #fff;
+    
+}
+
+
+   
